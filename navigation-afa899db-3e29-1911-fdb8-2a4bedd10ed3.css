@@ -1,0 +1,78 @@
+#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 {
+	text-align: left;
+}.rtl #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 {
+	text-align: right;
+}#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li > a {
+			
+			
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+			padding: 6px 10px 7px 10px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 0;
+			box-shadow: none;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+			padding: 6px 10px 7px 10px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 0;
+			box-shadow: none;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected:hover,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected:hover,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li:hover {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected:hover > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected:hover > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li:hover > a {
+			padding: 6px 10px 7px 10px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 0;
+			box-shadow: none;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.selected,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.childselected,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.selected:hover,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.childselected:hover,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li:hover {
+			margin: 0px 0px 0px 0px;
+		}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.selected > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.childselected > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.selected:hover > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li.childselected:hover > a,
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul li:hover > a {
+			padding: 6px 10px 7px 10px;
+		}
+
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 > li.normal > a { color: #000000;}
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 > li.normal > a { background-color: transparent; } #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 > li.normal > a { background-image: none; }
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected > a, #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected > a { color: #000000; }
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul > li.normal > a { color: #000000; }#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul > li.normal > a { background-image: none; }
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul > li.normal > a { background-color: #FFFFFF; }
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected > a, #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected > a, #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul > li.childselected > a { background-color: #FFFFFF; }
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.normal:hover > a { color: #000000; }
+		#navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.normal:hover > a { background-color: #FFFFFF; } #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected > a, #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected > a, #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.normal:hover > a { background-image: none; }
+		.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected > a,
+		.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected > a { color: #000000; }.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.selected > a,
+		.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li.childselected > a { background-color: transparent; }.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li:hover > a { color: #000000; }.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 li:hover > a { background-color: transparent; }.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul > li > a { color: #000000; }.mobile-view #navigation-afa899db-3e29-1911-fdb8-2a4bedd10ed3 ul > li > a { background-color: transparent; }
